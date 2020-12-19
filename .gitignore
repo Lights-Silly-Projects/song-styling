@@ -1,0 +1,18 @@
+*
+
+# Unignoring important project files
+!.gitattributes
+!.gitignore
+!*.ass
+!*.md
+!*/
+
+# Fonts
+!*.otf
+!*.ttf
+!*.ttc
+
+# Images
+!*.png
+!*.jpg
+!*.webp
