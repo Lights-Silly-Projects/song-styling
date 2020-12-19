@@ -1,5 +1,5 @@
 **Anime:** [Kamisama no Natta Hi](https://anidb.net/anime/15559)  
-**Song:** "	Kimi to Iu Shinwa" by Yanagi Nagi  
+**Song:** "Kimi to Iu Shinwa" by Yanagi Nagi  
 **Type:** Opening 1 (2 versions)  
 **Fansub Group:** Good Job! Media  
 
