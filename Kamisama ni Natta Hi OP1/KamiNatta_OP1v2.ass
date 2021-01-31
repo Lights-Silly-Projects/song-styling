@@ -20,7 +20,7 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: OP1,FOT-MatisseMinori Pro-En B,64,&H00FFFFFF,&H004D4038,&H00000000,&H00131110,-1,0,0,0,100,108,0.6,0,1,0,0,2,50,50,53,1
+Style: OP1,MatisseMinoriPro-B-Str,64,&H00FFFFFF,&H004D4038,&H00000000,&H00131110,-1,0,0,0,100,108,0.6,0,1,0,0,2,50,50,53,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
